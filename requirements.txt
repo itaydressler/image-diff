@@ -1,0 +1,5 @@
+imutils==0.4
+scikit-image
+numpy
+Flask==0.12
+flask-restful==0.3.5
